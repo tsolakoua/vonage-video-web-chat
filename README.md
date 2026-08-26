@@ -1,6 +1,6 @@
-# Web Videochat App
+# Vonage Web Video Chat 
 
-A web videochat app built with the Vonage Video APIs.
+A web-based video chat app built with the Vonage Video API.
 
 **Features**
 
@@ -34,12 +34,6 @@ Clone the [sample-video-node-learning_server](https://github.com/Vonage-Communit
 git clone https://github.com/Vonage-Community/sample-video-node-learning_server.git
 ```
 
-`cd` to the root directory and install dependencies:
-
-```bash
-npm install
-```
-
 Follow the instructions in the [README](https://github.com/Vonage-Community/sample-video-node-learning_server.git) to start the server locally. 
 
 ### Step 4. Run the client
@@ -48,4 +42,4 @@ Open `client.html` in a browser. The app will automatically fetch credentials fr
 
 ### Step 5. Join from another browser tab
 
-Open `client.html` in a second tab (or another device on the same network) to see both participants in the video call. Each tab receives its own token from the server.
+Open `client.html` in a second tab to see both participants in the video call. Each tab receives its own token from the server.
