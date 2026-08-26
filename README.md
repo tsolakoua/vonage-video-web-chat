@@ -1,6 +1,6 @@
 # Vonage Web Video Chat 
 
-A web-based video chat app built with the Vonage Video API.
+A multiparty web-based video chat app built with the Vonage Video API.
 
 **Features**
 
@@ -16,7 +16,7 @@ A web-based video chat app built with the Vonage Video API.
 
 ### Step 1. Create a Vonage Account
 
-- First sign up at [Vonage](https://developer.vonage.com/en/home) and create a new app. Then copy your **App ID** and download the **Private Key**. You will need these credentials to pass them in your local server in later steps. [Check out this guide](https://developer.vonage.com/en/video/getting-started) for a detailed explanation of how you can create the account and get your credentials.
+First sign up at [Vonage](https://developer.vonage.com/en/home) and create a new app. Then copy your **App ID** and download the **Private Key**. You will need these credentials to pass them in your local server in later steps. [Check out this guide](https://developer.vonage.com/en/video/getting-started) for a detailed explanation of how you can create the account and get your credentials.
 
 ### Step 2. Clone the Repo
 
